@@ -1,0 +1,166 @@
+.container{
+    width: 1300px;
+    height: 593px;
+}
+
+.profile{
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    align-content: space-around;
+
+}
+
+.cuadrado{
+    background-color: rgb(7, 112, 112);
+    color: white;
+    width: 100px;
+}
+
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.tarjeta{
+    position: relative;
+    width: 350px;
+    height: 200px;
+    margin-top: 50px;
+    margin-left: 60px;
+}
+
+.encabezado{
+    height: 70px;
+    background-color:rgba(13, 20, 56, 0.842) ;
+    position: relative;
+}
+
+.usuario{
+    width: 60px;
+    position: relative;
+    top: 40px;
+    left: 15px;
+    border: 2px solid rgb(189, 183, 183);
+    border-radius: 50%;
+}
+
+.cuerpo{
+    padding-top: 15px;
+    padding-left: 10px;
+    padding-bottom: 5px;
+    border: 2px solid rgb(189, 183, 183);
+}
+.ubicacion, .perfil{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+.marcador{
+    width: 12px;
+}
+
+.true{
+    background-color: rgb(224, 218, 218);
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    margin: 10px;
+}
+.conection{
+    height: 70px;
+    width: 304px;
+    background-color:rgb(117, 116, 116) ;
+    position: relative;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.bloque2{
+    margin: 100px;
+    margin-top: -200px;
+    margin-left: 420px;
+
+}
+
+.bloque3{
+    width: 280px;
+    border: 2px solid rgb(189, 183, 183);
+    padding: 10px;
+}
+
+.tood , .phil, .adrien , .anne, .alayne, .arry {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.icons{
+    width: 15px;
+}
+
+.img, .img-{
+    width: 25px;
+    border: 2px solid gray;
+    border-radius: 50%;
+}
+.summit{
+    border: 2px solid rgb(139, 136, 136);
+    border-radius: 50px;
+}
+
+.bloque4{
+    border: 2px solid rgb(139, 136, 136) ;
+    width: 350px;
+    margin-top: 150px;
+    margin-left: 60px;
+}
+.education{
+    background-color: rgb(117, 116, 116);
+    color: white;
+    display: flex;
+    padding: 5px;
+}
+.bloque4{
+    text-align: left;
+}
+.fecha{
+    color: gray;
+    font-style: oblique;
+}
+.dojo{
+    padding: 10px;
+}
+.your{
+    background-color: rgb(117, 116, 116);
+    color: white;
+    display: flex;
+    align-items: center;
+}
+
+.bloque5{
+    width: 250px;
+    margin-top: -320px;
+    margin-left: 420px;
+}
+
+.bloque6{
+    padding-top: 15px;
+    padding-left: 10px;
+    padding-bottom: 5px;
+    border: 2px solid rgb(189, 183, 183);
+}
+
+.enlace{
+    border: 2px solid rgb(189, 183, 183);
+    
+}
+.quinient{
+    width: 50px;
+    height: 30px;
+    border-radius: 50%;
+    margin: 10px;
+}
